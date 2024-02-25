@@ -2,7 +2,7 @@
 
 ## Junior FullStack developer
 
-## Laguages
+## Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![PHP](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql)
